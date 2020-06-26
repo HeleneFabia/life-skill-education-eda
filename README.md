@@ -1,4 +1,4 @@
-# talis_eda
+# TalisEDA
 Data analysis and visualization of the Teaching and Learning International Survey (TALIS) 2018 (http://www.oecd.org/education/talis/)
 
 Questions explored: 
