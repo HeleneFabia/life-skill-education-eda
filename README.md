@@ -1,4 +1,4 @@
-# TalisEDA
+# Talis EDA
 Project No. 1: Data analysis and visualization of the Teaching and Learning International Survey (TALIS) 2018 
 (http://www.oecd.org/education/talis/)
 
