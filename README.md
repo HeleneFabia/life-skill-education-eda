@@ -8,10 +8,9 @@ This is an overview of teachers’ preparedness to teach cross-curricular skills
 
 ## Aim of this analysis
 
-This analysis informed the development of a research project at the University of Graz, Austria. The project aims to investigate language teachers' knowledge, attitudes and skills regarding the teaching of global skills (i.e. critical thinking, collaboration, wellbeing skills, sustainability,...) in the language classroom.
+This analysis informed the development of a research project at the University of Graz, Austria (<a href= "https://anglistik.uni-graz.at/de/fachdidaktik/">Department of English Language Didactics</a>). The project aims to investigate Austrian language teachers' knowledge, attitudes and skills regarding the teaching of global skills (i.e. critical thinking, collaboration, wellbeing skills, sustainability,...) in the language classroom.
 
-## Questions I intended to answer:
-
+The question I intend to answer are:
 1. How well prepared are teachers of all subjects and countries to teach cross-curricular skills?
 2. How well prepared are language teachers of all countries to teach cross-curricular skills?
 3. How well prepared are foreign language teachers of all countries to teach cross-curricular skills compared to teachers of other subjects?
@@ -22,4 +21,27 @@ For each question, the percentage of teachers who received training about teachi
 
 ## Findings
 
-Data from: http://www.oecd.org/education/talis/talis-2018-data.htm
+1. Austrian teachers (of all subjects) receive very little training and feel badly prepared with respect to teaching cross-curricular skills in comparison to teachers in other countries. 
+
+![Image1](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_all_subj_global_formal_ed.png)
+
+The same holds true for language teachers. 
+
+![Image5](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_only_lang_globalformal_ed.png)
+
+2.  On average, Austrian teachers (regardless of their subject) do not feel sufficiently trained and prepared to teach cross-curricular skills. Austrian language teachers in particular receive very little training and feel badly prepared with respect to teaching cross-curricular skills in comparison to Austrian teachers of other subjects.
+
+![Image13](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_aut_formal_ed.png)
+
+This situation seems to be slightly better for language teachers with less than 10 years teaching experience. This might imply that teacher training is gradually incorporating the necessary education for teachers in order to teach cross-curricular skills. 
+
+![Image17](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_aut_10_formal_ed.png)
+
+3. Overall, the analysis indeed supports the claim of many educational researchers (e.g. Mercer et al. 2019) to put more emphasis on the professional training of teachers regarding knowledge and tools to incorporate cross-curricular skills into their lessons and teaching philosophy.
+
+<b>References:</b>
+
+Mercer, S., & Hockly, N., Stobart, G., & Gales, N. L. (2019). Global skills: Creating empowered 21st century citizens. Oxford: Oxford University Press. Retrieved from: www.oup.com/elt/expert
+
+Organisation for Economic Co-operation and Development. (2018). TALIS [Data file]. Retrieved from http://www.oecd.org/education/talis/talis-2018-data.htm
+
