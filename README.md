@@ -21,7 +21,7 @@ For each question, the percentage of teachers who received training about teachi
 
 ## Findings
 
-1. Austrian teachers (of all subjects) receive very little training and feel badly prepared with respect to teaching cross-curricular skills in comparison to teachers in other countries. 
+1. Austrian teachers (of all subjects) receive very little training and feel badly prepared with respect to teaching cross-curricular skills in comparison to teachers in other countries (see list of country abbreviations in the appendix). 
 
 ![Image1](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_all_subj_global_formal_ed.png)
 
@@ -44,4 +44,56 @@ This situation seems to be slightly better for language teachers with less than 
 Mercer, S., & Hockly, N., Stobart, G., & Gales, N. L. (2019). Global skills: Creating empowered 21st century citizens. Oxford: Oxford University Press. Retrieved from: www.oup.com/elt/expert
 
 Organisation for Economic Co-operation and Development. (2018). TALIS [Data file]. Retrieved from http://www.oecd.org/education/talis/talis-2018-data.htm
+
+## Appendix
+
+List of country abbreviations
+
+ABA - Buenos Aires (Argentina);
+ARE - United Arab Emirates;
+AUS - Australia;
+AUT - Austri;
+BEL - Belgium;
+BGR - Bulgaria;
+BRA - Brazil;
+CAB - Canada (Alberta);
+CHL	- Chile;
+COL	-	Colombia;
+CSH	-	Shanghai;
+CYP	-	Cyprus;
+CZE	-	Czech Republic;
+DNK	- Denmark;
+ENG	-	England;
+ESP	-	Spain;
+EST	-	Estonia;
+FIN	-	Finland;
+FRA	-	France;
+GEO	-	Georgia;
+HRV	-	Croatia;
+HUN	-	Hungary;
+ISR	-	Israel;
+ITA	-	Italy;
+JPN	-	Japan;
+KAZ	-	Kazakhstan;
+KOR	-	Korea;
+LTU	-	Lithuania;
+LVA	-	Latvia;
+MEX	-	Mexico;
+MLT	-	Malta;
+NLD	-	Netherlands;
+NOR	-	Norway;
+NZL	-	New Zealand;
+PRT	-	Portugal;
+ROU	-	Romania;
+RUS	-	Russia;
+SAU	-	Saudi Arabia;
+SGP	-	Singapore;
+SVK	-	Slovakia;
+SVN	-	Slovenia;
+SWE	-	Sweden;
+TUR	-	Turkey;
+TWN	-	Taiwan;
+USA	-	United States;	
+VNM	-	Vietnam;
+ZAF	-	South Africa;
 
