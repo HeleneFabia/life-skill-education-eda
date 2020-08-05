@@ -6,7 +6,7 @@ This is an overview of teachers’ preparedness to teach cross-curricular skills
   <img width="400" height="300" src="https://cdn.pixabay.com/photo/2017/08/06/20/36/school-2596090_960_720.png">
 </p>
 
-## Aim of this analysis
+## Aim 
 
 This analysis informed the development of a research project at the University of Graz, Austria (<a href= "https://anglistik.uni-graz.at/de/fachdidaktik/">Department of English Language Didactics</a>). The project aims to investigate Austrian language teachers' knowledge, attitudes and skills regarding the teaching of global skills (i.e. critical thinking, collaboration, wellbeing skills, sustainability,...) in the language classroom.
 
