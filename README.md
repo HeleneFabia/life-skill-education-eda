@@ -39,7 +39,7 @@ This situation seems to be slightly better for language teachers with less than 
 
 3. Overall, the analysis indeed supports the claim of many educational researchers (e.g. Mercer et al. 2019) to put more emphasis on the professional training of teachers regarding knowledge and tools to incorporate cross-curricular skills into their lessons and teaching philosophy.
 
-<b>References:</b>
+## References
 
 Mercer, S., & Hockly, N., Stobart, G., & Gales, N. L. (2019). Global skills: Creating empowered 21st century citizens. Oxford: Oxford University Press. Retrieved from: www.oup.com/elt/expert
 
