@@ -37,7 +37,7 @@ This situation seems to be slightly better for language teachers with less than 
 
 ![Image17](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_aut_10_formal_ed.png)
 
-3. Overall, the analysis indeed supports the claim of many educational researchers (e.g. Mercer et al. 2019) to put more emphasis on the professional training of teachers regarding knowledge and tools to incorporate cross-curricular skills into their lessons and teaching philosophy.
+3. Overall, the analysis supports the claim of many educational researchers (e.g. Mercer et al., 2019) to put more emphasis on the professional training of teachers regarding knowledge and tools to incorporate cross-curricular skills into their lessons and teaching philosophy.
 
 ## References
 
