@@ -3,7 +3,7 @@ Talis EDA
 
 This is an overview of teachers’ preparedness to teach cross-curricular skills (e.g., critical thinking, creativity, problem solving). Specifically, I look at teachers of lower secondary education, both on an international level as well as in Austria in particular. The findings are the result of analysing the <a href = "http://www.oecd.org/education/talis/">OECD Teaching and Learning International Survey (TALIS) 2018</a>, which includes data about 153,682 teachers in 47 countries.
 <p align="center">
-  <img width="400" height="300" src="https://cdn.pixabay.com/photo/2017/08/06/20/36/school-2596090_960_720.png">
+  <img width="430" height="300" src="https://cdn.pixabay.com/photo/2017/08/06/20/36/school-2596090_960_720.png">
 </p>
 
 ## Aim 
