@@ -28,11 +28,11 @@ The same holds true for language teachers.
 
 ![Image5](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_only_lang_globalformal_ed.png)
 
-2.  Austrian language teachers receive very little training and feel badly prepared with respect to teaching cross-curricular skills in comparison to Austrian teachers of other subjects.
+2.  While Austrian teachers of all subjects receive little training in the discussed field, Austrian language teachers appear especially badly prepared with respect to teaching cross-curricular skills.
 
 ![Image13](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_aut_formal_ed.png)
 
-This situation seems to be slightly better for language teachers with less than 10 years teaching experience. This might imply that teacher training is gradually incorporating the necessary education for teachers in order to teach cross-curricular skills. 
+This situation seems to be better for language teachers with less than 10 years teaching experience. This might imply that teacher training is gradually incorporating the necessary education for teachers in order to teach cross-curricular skills. 
 
 ![Image17](https://github.com/HeleneFabia/talis-eda/blob/master/images/rq_aut_10_formal_ed.png)
 
